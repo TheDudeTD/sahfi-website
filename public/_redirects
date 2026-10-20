@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects. Domain-level redirects (www → apex) are set up
+# with a Cloudflare Redirect Rule, see DEPLOY.md.

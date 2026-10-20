@@ -1,0 +1,10 @@
+[
+  { "id": "tracks", "enabled": true },
+  { "id": "liveSets", "enabled": true },
+  { "id": "videos", "enabled": true },
+  { "id": "about", "enabled": true },
+  { "id": "playedAt", "enabled": true },
+  { "id": "gallery", "enabled": true },
+  { "id": "download", "enabled": true },
+  { "id": "contact", "enabled": true }
+]
