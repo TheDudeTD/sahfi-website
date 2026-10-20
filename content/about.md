@@ -1,4 +1,4 @@
-Benjamin Rifatbegović, or more commonly known as SAHFI, is a music producer and DJ from Sarajevo.
+SAHFI is a music producer and DJ from Sarajevo.
 
 Thanks to his parents, he was introduced to a large variety of musical genres early on in his life. This musical intellect he accumulated over the years is what helped him get into music production. Soon enough he was exposed to House music and fell head over heels in love with it.
 
